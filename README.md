@@ -46,7 +46,7 @@ agencia-viagem-api/
 ├── dto/             # Objetos de transferência de dados (opcional)
 └── Application.java # Classe principal
 
-
+```
 ---
 
 📌Endpoints
