@@ -36,14 +36,16 @@ Durante o desenvolvimento foi implementado o seguinte:
 
 ## 📁 Estrutura do Projeto
 
+```text
 agencia-viagem-api/
-├── controller/ # Controladores (entrada das requisições)
-├── service/ # Regras de negócio
-├── model/# Entidades JPA (Destino, Pacote, Reserva, Usuario)
-├── repository/ # Repositórios de acesso ao banco de dados
-├── security/ # Configurações de autenticação e autorização
-├── dto/ # Objetos de transferência de dados (opcional)
-├── Application.java # Classe principal
+├── controller/      # Controladores (entrada das requisições)
+├── service/         # Regras de negócio
+├── model/           # Entidades JPA (Destino, Pacote, Reserva, Usuario)
+├── repository/      # Repositórios de acesso ao banco de dados
+├── security/        # Configurações de autenticação e autorização
+├── dto/             # Objetos de transferência de dados (opcional)
+└── Application.java # Classe principal
+
 
 ---
 
