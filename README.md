@@ -35,7 +35,7 @@ Durante o desenvolvimento foi implementado o seguinte:
 ---
 
 ## 📁 Estrutura do Projeto
-
+---
 agencia-viagem-api/
 ├── controller/ # Controladores (entrada das requisições)
 ├── service/ # Regras de negócio
